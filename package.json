@@ -1,5 +1,5 @@
 {
-  "name": "@tudp/my-lib",
+  "name": "@tudp/rn-calendar",
   "version": "0.1.0",
   "description": "description",
   "main": "./lib/module/index.js",
@@ -32,7 +32,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace @tudp/my-lib-example",
+    "example": "yarn workspace @tudp/rn-calendar-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -42,19 +42,33 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "calendar",
+    "date-picker",
+    "date",
+    "datepicker",
+    "range-picker",
+    "date-range",
+    "react-native-calendar",
+    "react-native-calendar-ts",
+    "typescript",
+    "react-component",
+    "react-native-ui",
+    "mobile-calendar",
+    "calendar-component",
+    "range-selection",
+    "single-date-selection",
+    "performance"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doanphungtu/tudp-my-lib.git"
+    "url": "git+https://github.com/doanphungtu/tudp-rn-calendar.git"
   },
   "author": "tudp <doanphungtu@gmail.com> (https://github.com/doanphungtu)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doanphungtu/tudp-my-lib/issues"
+    "url": "https://github.com/doanphungtu/tudp-rn-calendar/issues"
   },
-  "homepage": "https://github.com/doanphungtu/tudp-my-lib#readme",
+  "homepage": "https://github.com/doanphungtu/tudp-rn-calendar#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

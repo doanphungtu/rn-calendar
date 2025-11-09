@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "@tudp/my-lib": ["./src/index"]
+      "@tudp/rn-calendar": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

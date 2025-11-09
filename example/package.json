@@ -1,5 +1,5 @@
 {
-  "name": "@tudp/my-lib-example",
+  "name": "@tudp/rn-calendar-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

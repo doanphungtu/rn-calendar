@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "tudp.mylib.example"
+      "bundleIdentifier": "tudp.rncalendar.example"
     },
     "android": {
       "adaptiveIcon": {
@@ -22,7 +22,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "tudp.mylib.example"
+      "package": "tudp.rncalendar.example"
     },
     "web": {
       "favicon": "./assets/favicon.png"
